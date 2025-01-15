@@ -149,6 +149,4 @@ This repository contains a script to analyze and map the devastation caused by S
 - Ensure adequate cloud-free imagery is available for the analysis period.
 - Adjust the zoom level (`Map.centerObject`) and parameters as needed for your specific requirements.
 
-## License
-This script is available under the MIT License. Feel free to use and adapt it for your needs.
 
